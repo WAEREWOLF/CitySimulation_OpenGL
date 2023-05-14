@@ -1,0 +1,146 @@
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\casa\bin\Debug\Plaza.exe
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\casa\bin\Debug\Plaza.pdb
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\casa\bin\Debug\ShadowEngine.pdb
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\casa\obj\Debug\ResolveAssemblyReference.cache
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\casa\obj\Debug\Plaza.Properties.Resources.resources
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\casa\obj\Debug\Plaza.csproj.GenerateResource.Cache
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\casa\obj\Debug\Plaza.exe
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\casa\obj\Debug\Plaza.pdb
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\casa\obj\Debug\Plaza.MainForm.resources
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\plaza\obj\Debug\Plaza.exe
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\plaza\obj\Debug\Plaza.pdb
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\plaza\bin\Debug\Plaza.exe
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\plaza\bin\Debug\Plaza.pdb
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\plaza\bin\Debug\ShadowEngine.pdb
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\plaza\obj\Debug\ResolveAssemblyReference.cache
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\plaza\obj\Debug\Plaza.MainForm.resources
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\plaza\obj\Debug\Plaza.Properties.Resources.resources
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\plaza\obj\Debug\Plaza.csproj.GenerateResource.Cache
+E:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\plaza\obj\Debug\Plaza.exe
+E:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\plaza\obj\Debug\Plaza.pdb
+E:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\plaza\obj\Debug\ResolveAssemblyReference.cache
+E:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\plaza\obj\Debug\Plaza.MainForm.resources
+E:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\plaza\obj\Debug\Plaza.Properties.Resources.resources
+E:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\plaza\obj\Debug\Plaza.csproj.GenerateResource.Cache
+E:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\plaza\bin\Debug\Plaza.exe
+E:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\plaza\bin\Debug\Plaza.pdb
+E:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\plaza\bin\Debug\ShadowEngine.pdb
+D:\saved\Vasily\Work\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\plaza\obj\Debug\Plaza.exe
+D:\saved\Vasily\Work\TODO GRAPHIKA\proyectos sede grafica\este año\plaza\plaza\obj\Debug\Plaza.pdb
+C:\Users\sisvasili\Desktop\plaza\plaza\obj\Debug\Plaza.exe
+C:\Users\sisvasili\Desktop\plaza\plaza\obj\Debug\Plaza.pdb
+C:\Users\sisvasili\Desktop\plaza\plaza\bin\Debug\Plaza.exe
+C:\Users\sisvasili\Desktop\plaza\plaza\bin\Debug\Plaza.pdb
+C:\Users\sisvasili\Desktop\plaza\plaza\bin\Debug\ShadowEngine.pdb
+C:\Users\sisvasili\Desktop\plaza\plaza\obj\Debug\Plaza.csprojResolveAssemblyReference.cache
+C:\Users\sisvasili\Desktop\plaza\plaza\obj\Debug\Plaza.MainForm.resources
+C:\Users\sisvasili\Desktop\plaza\plaza\obj\Debug\Plaza.Properties.Resources.resources
+C:\Users\sisvasili\Desktop\plaza\plaza\obj\Debug\Plaza.csproj.GenerateResource.Cache
+C:\Users\Andrei\Desktop\plaza\plaza\bin\Debug\Plaza.exe.config
+C:\Users\Andrei\Desktop\plaza\plaza\obj\Debug\Plaza.exe
+C:\Users\Andrei\Desktop\plaza\plaza\obj\Debug\Plaza.pdb
+C:\Users\Andrei\Desktop\plaza\plaza\bin\Debug\Plaza.exe
+C:\Users\Andrei\Desktop\plaza\plaza\bin\Debug\Plaza.pdb
+C:\Users\Andrei\Desktop\plaza\plaza\bin\Debug\ShadowEngine.pdb
+C:\Users\Andrei\Desktop\plaza\plaza\obj\Debug\Plaza.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\plaza\plaza\obj\Debug\Plaza.MainForm.resources
+C:\Users\Andrei\Desktop\plaza\plaza\obj\Debug\Plaza.Properties.Resources.resources
+C:\Users\Andrei\Desktop\plaza\plaza\obj\Debug\Plaza.csproj.GenerateResource.Cache
+G:\Facultate\plaza\plaza\bin\Debug\Plaza.exe.config
+G:\Facultate\plaza\plaza\obj\Debug\Plaza.exe
+G:\Facultate\plaza\plaza\obj\Debug\Plaza.pdb
+G:\Facultate\plaza\plaza\bin\Debug\Plaza.exe
+G:\Facultate\plaza\plaza\bin\Debug\Plaza.pdb
+G:\Facultate\plaza\plaza\bin\Debug\ShadowEngine.pdb
+G:\Facultate\plaza\plaza\obj\Debug\Plaza.csprojResolveAssemblyReference.cache
+G:\Facultate\plaza\plaza\obj\Debug\Plaza.MainForm.resources
+G:\Facultate\plaza\plaza\obj\Debug\Plaza.Properties.Resources.resources
+G:\Facultate\plaza\plaza\obj\Debug\Plaza.csproj.GenerateResource.Cache
+C:\Users\Irina\Downloads\plaza-1-1\plaza\plaza\bin\Debug\Plaza.exe.config
+C:\Users\Irina\Downloads\plaza-1-1\plaza\plaza\bin\Debug\Plaza.exe
+C:\Users\Irina\Downloads\plaza-1-1\plaza\plaza\bin\Debug\Plaza.pdb
+C:\Users\Irina\Downloads\plaza-1-1\plaza\plaza\bin\Debug\ShadowEngine.pdb
+C:\Users\Irina\Downloads\plaza-1-1\plaza\plaza\obj\Debug\Plaza.csprojAssemblyReference.cache
+C:\Users\Irina\Downloads\plaza-1-1\plaza\plaza\obj\Debug\Plaza.MainForm.resources
+C:\Users\Irina\Downloads\plaza-1-1\plaza\plaza\obj\Debug\Plaza.Properties.Resources.resources
+C:\Users\Irina\Downloads\plaza-1-1\plaza\plaza\obj\Debug\Plaza.csproj.GenerateResource.cache
+C:\Users\Irina\Downloads\plaza-1-1\plaza\plaza\obj\Debug\Plaza.csproj.CopyComplete
+C:\Users\Irina\Downloads\plaza-1-1\plaza\plaza\obj\Debug\Plaza.exe
+C:\Users\Irina\Downloads\plaza-1-1\plaza\plaza\obj\Debug\Plaza.pdb
+E:\An4\Semestrul2\Grafica\plaza-1-1\plaza\plaza\bin\Debug\Plaza.exe.config
+E:\An4\Semestrul2\Grafica\plaza-1-1\plaza\plaza\bin\Debug\Plaza.exe
+E:\An4\Semestrul2\Grafica\plaza-1-1\plaza\plaza\bin\Debug\Plaza.pdb
+E:\An4\Semestrul2\Grafica\plaza-1-1\plaza\plaza\bin\Debug\ShadowEngine.pdb
+E:\An4\Semestrul2\Grafica\plaza-1-1\plaza\plaza\obj\Debug\Plaza.csprojAssemblyReference.cache
+E:\An4\Semestrul2\Grafica\plaza-1-1\plaza\plaza\obj\Debug\Plaza.MainForm.resources
+E:\An4\Semestrul2\Grafica\plaza-1-1\plaza\plaza\obj\Debug\Plaza.Properties.Resources.resources
+E:\An4\Semestrul2\Grafica\plaza-1-1\plaza\plaza\obj\Debug\Plaza.csproj.GenerateResource.cache
+E:\An4\Semestrul2\Grafica\plaza-1-1\plaza\plaza\obj\Debug\Plaza.csproj.CopyComplete
+E:\An4\Semestrul2\Grafica\plaza-1-1\plaza\plaza\obj\Debug\Plaza.exe
+E:\An4\Semestrul2\Grafica\plaza-1-1\plaza\plaza\obj\Debug\Plaza.pdb
+C:\Users\Cruceru\Desktop\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\bin\Debug\Plaza.exe.config
+C:\Users\Cruceru\Desktop\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\bin\Debug\Plaza.exe
+C:\Users\Cruceru\Desktop\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\bin\Debug\Plaza.pdb
+C:\Users\Cruceru\Desktop\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\bin\Debug\ShadowEngine.pdb
+C:\Users\Cruceru\Desktop\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\obj\Debug\Plaza.csprojAssemblyReference.cache
+C:\Users\Cruceru\Desktop\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\obj\Debug\Plaza.MainForm.resources
+C:\Users\Cruceru\Desktop\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\obj\Debug\Plaza.Properties.Resources.resources
+C:\Users\Cruceru\Desktop\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\obj\Debug\Plaza.csproj.GenerateResource.cache
+C:\Users\Cruceru\Desktop\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\obj\Debug\Plaza.csproj.CoreCompileInputs.cache
+C:\Users\Cruceru\Desktop\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\obj\Debug\Plaza.csproj.CopyComplete
+C:\Users\Cruceru\Desktop\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\obj\Debug\Plaza.exe
+C:\Users\Cruceru\Desktop\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\obj\Debug\Plaza.pdb
+E:\Download\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\bin\Debug\Plaza.exe.config
+E:\Download\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\bin\Debug\Plaza.exe
+E:\Download\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\bin\Debug\Plaza.pdb
+E:\Download\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+E:\Download\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\bin\Debug\Microsoft.DirectX.Direct3D.dll
+E:\Download\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\bin\Debug\Microsoft.DirectX.dll
+E:\Download\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\bin\Debug\ShadowEngine.pdb
+E:\Download\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+E:\Download\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\bin\Debug\Microsoft.DirectX.Direct3D.xml
+E:\Download\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\bin\Debug\Microsoft.DirectX.xml
+E:\Download\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\obj\Debug\Plaza.csprojAssemblyReference.cache
+E:\Download\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\obj\Debug\Plaza.MainForm.resources
+E:\Download\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\obj\Debug\Plaza.Properties.Resources.resources
+E:\Download\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\obj\Debug\Plaza.csproj.GenerateResource.cache
+E:\Download\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\obj\Debug\Plaza.csproj.CoreCompileInputs.cache
+E:\Download\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\obj\Debug\Plaza.csproj.CopyComplete
+E:\Download\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\obj\Debug\Plaza.exe
+E:\Download\Proiecte\plaza-1-1\plaza-1-1\plaza\plaza\obj\Debug\Plaza.pdb
+D:\plaza-1-1\plaza\plaza\bin\Debug\Plaza.exe.config
+D:\plaza-1-1\plaza\plaza\bin\Debug\Plaza.exe
+D:\plaza-1-1\plaza\plaza\bin\Debug\Plaza.pdb
+D:\plaza-1-1\plaza\plaza\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\plaza-1-1\plaza\plaza\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\plaza-1-1\plaza\plaza\bin\Debug\Microsoft.DirectX.dll
+D:\plaza-1-1\plaza\plaza\bin\Debug\ShadowEngine.pdb
+D:\plaza-1-1\plaza\plaza\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+D:\plaza-1-1\plaza\plaza\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\plaza-1-1\plaza\plaza\bin\Debug\Microsoft.DirectX.xml
+D:\plaza-1-1\plaza\plaza\obj\Debug\Plaza.csprojAssemblyReference.cache
+D:\plaza-1-1\plaza\plaza\obj\Debug\Plaza.MainForm.resources
+D:\plaza-1-1\plaza\plaza\obj\Debug\Plaza.Properties.Resources.resources
+D:\plaza-1-1\plaza\plaza\obj\Debug\Plaza.csproj.GenerateResource.cache
+D:\plaza-1-1\plaza\plaza\obj\Debug\Plaza.csproj.CoreCompileInputs.cache
+D:\plaza-1-1\plaza\plaza\obj\Debug\Plaza.csproj.CopyComplete
+D:\plaza-1-1\plaza\plaza\obj\Debug\Plaza.exe
+D:\plaza-1-1\plaza\plaza\obj\Debug\Plaza.pdb
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\Dogaru\GPS project\plaza\plaza\bin\Debug\Plaza.exe.config
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\Dogaru\GPS project\plaza\plaza\bin\Debug\Plaza.exe
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\Dogaru\GPS project\plaza\plaza\bin\Debug\Plaza.pdb
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\Dogaru\GPS project\plaza\plaza\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\Dogaru\GPS project\plaza\plaza\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\Dogaru\GPS project\plaza\plaza\bin\Debug\Microsoft.DirectX.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\Dogaru\GPS project\plaza\plaza\bin\Debug\ShadowEngine.pdb
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\Dogaru\GPS project\plaza\plaza\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\Dogaru\GPS project\plaza\plaza\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\Dogaru\GPS project\plaza\plaza\bin\Debug\Microsoft.DirectX.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\Dogaru\GPS project\plaza\plaza\obj\Debug\Plaza.csprojAssemblyReference.cache
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\Dogaru\GPS project\plaza\plaza\obj\Debug\Plaza.MainForm.resources
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\Dogaru\GPS project\plaza\plaza\obj\Debug\Plaza.Properties.Resources.resources
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\Dogaru\GPS project\plaza\plaza\obj\Debug\Plaza.csproj.GenerateResource.cache
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\Dogaru\GPS project\plaza\plaza\obj\Debug\Plaza.csproj.CoreCompileInputs.cache
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\Dogaru\GPS project\plaza\plaza\obj\Debug\Plaza.csproj.CopyComplete
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\Dogaru\GPS project\plaza\plaza\obj\Debug\Plaza.exe
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\Dogaru\GPS project\plaza\plaza\obj\Debug\Plaza.pdb
